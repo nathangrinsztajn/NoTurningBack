@@ -1,4 +1,4 @@
-This is a Pytorch implementation of the paper: Neurips 2021 - There Is No Turning Back: A Self-Supervised Approach for 
+This is the Pytorch implementation of the paper: Neurips 2021 - There Is No Turning Back: A Self-Supervised Approach for 
 Reversibility-Aware Reinforcement Learning.
   
   
